@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chhantea
 - 👀 I’m interested in long term relation
 - 💞️ I’m looking to collaborate on react, ruby on rails, node
-- 📫 How to reach me - contatct me at r.lalnghenchhana@gmail.com
+- 📫 How to reach me - r.lalnghenchhana@gmail.com
 
 <!---
 Chhantea/Chhantea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
