@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chhantea
 - 👀 I’m interested in long term relation
-- 💞️ I’m looking to collaborate on react, ruby on rails, node, react native
+- 💞️ I’m looking to collaborate on react, ruby on rails, node, react native, typescript , Nextjs etc...
 - 📫 How to reach me - r.lalnghenchhana@gmail.com
 
 <!---
